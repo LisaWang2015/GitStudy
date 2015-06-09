@@ -1,1 +1,2 @@
 version 4
+Git tracks changes of files.
