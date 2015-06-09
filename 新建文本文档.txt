@@ -2,3 +2,9 @@
 版本二
 Version 3
 "记得把Notepad++的默认编码设置为UTF-8 without BOM。"
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+中文测试
+中文乱码
+mutable index called stage has been testing.
