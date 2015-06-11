@@ -8,5 +8,10 @@ Git has a mutable index called stage.
 中文测试
 中文乱码
 mutable index called stage has been testing.
-command git bash
+###command git bash
+development
+git push to remote repository
+git remote repository from github clone into local
+###bug fix
 Git is a free software, which provides Bug branches to handle temporary task, such as bug fix.
+解决冲突
